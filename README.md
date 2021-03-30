@@ -1,3 +1,4 @@
+[![Page Views Count](https://badges.toozhao.com/badges/01F20CNWY0BF9ZVC2GTDKQXX0Q/green.svg)](https://badges.toozhao.com/stats/01F20CNWY0BF9ZVC2GTDKQXX0Q "Get your own page views count badge on badges.toozhao.com")
 # Pipelining-CPU
 流水线CPU
 
